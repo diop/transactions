@@ -9,6 +9,6 @@
 + [https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/](https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/)
 + [https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/](https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/)
 + [https://www.thepolyglotdeveloper.com/2018/02/generate-cryptocurrency-private-keys-public-addresses-golang/](https://www.thepolyglotdeveloper.com/2018/02/generate-cryptocurrency-private-keys-public-addresses-golang/)
-
++ [https://around25.com/blog/building-a-trading-engine-for-a-crypto-exchange/](https://around25.com/blog/building-a-trading-engine-for-a-crypto-exchange/)
 
 © Copyright 2019 Fodé Diop - MIT License
